@@ -18,8 +18,8 @@ count(LIST, 1, >): error("The build will fail. Path '$${OUT_PWD}' contains space
 unix {
     *g++* {
         GCC_VERSION = $$system("g++ -dumpversion")
-        contains(GCC_VERSION, ^7.*$) {
-            message( "Seamly2D.pro: g++ version 7.x found" )
+        greaterThan(GCC_VERSION, 6) {
+            message( "Seamly2D.pro: g++ version greater than 6.x found" )
             CONFIG += g++7
         } else {
             contains(GCC_VERSION, ^6.*$) {
