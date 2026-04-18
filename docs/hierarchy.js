@@ -376,6 +376,7 @@ var hierarchy =
       ] ],
       [ "DialogUndo", "de/d7f/classDialogUndo.html", null ],
       [ "EditLabelTemplateDialog", "d7/df1/classEditLabelTemplateDialog.html", null ],
+      [ "ExportProgressDialog", "d7/deb/classExportProgressDialog.html", null ],
       [ "ImageDialog", "d3/db4/classImageDialog.html", null ],
       [ "MeShortcutsDialog", "dd/d67/classMeShortcutsDialog.html", null ],
       [ "MeasurementDatabaseDialog", "d3/d63/classMeasurementDatabaseDialog.html", null ],
@@ -422,7 +423,7 @@ var hierarchy =
       [ "qmu::QmuParserError", "df/ddc/classqmu_1_1QmuParserError.html", null ]
     ] ],
     [ "QFrame", null, [
-      [ "VWidgetPopup", "db/d1a/classVWidgetPopup.html", null ]
+      [ "WidgetPopup", "d1/dbc/classWidgetPopup.html", null ]
     ] ],
     [ "QGraphicsEllipseItem", null, [
       [ "VScaledEllipse", "d8/dbf/classVScaledEllipse.html", null ],
@@ -833,6 +834,7 @@ var hierarchy =
     [ "QSharedPointer< T >", "dd/daa/classQSharedPointer.html", null ],
     [ "QSharedPointer< DialogTool >", "dd/daa/classQSharedPointer.html", null ],
     [ "QSharedPointer< dx_iface >", "dd/daa/classQSharedPointer.html", null ],
+    [ "QSharedPointer< MeasurementDoc >", "dd/daa/classQSharedPointer.html", null ],
     [ "QSharedPointer< QCursor >", "dd/daa/classQSharedPointer.html", null ],
     [ "QSharedPointer< QDomDocument >", "dd/daa/classQSharedPointer.html", null ],
     [ "QSharedPointer< QFile >", "dd/daa/classQSharedPointer.html", null ],

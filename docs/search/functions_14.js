@@ -1,7 +1,7 @@
 var searchData=
 [
-  ['tabchanged_0',['TabChanged',['../d7/df1/classEditLabelTemplateDialog.html#a467532552dbe9b8a35d430f340f6e0ed',1,'EditLabelTemplateDialog']]],
-  ['tabchanged_1',['tabChanged',['../d1/d7d/classEditFormulaDialog.html#aa743c053e5cc2859bfec46ba36590a69',1,'EditFormulaDialog']]],
+  ['tabchanged_0',['tabChanged',['../d1/d7d/classEditFormulaDialog.html#aa743c053e5cc2859bfec46ba36590a69',1,'EditFormulaDialog']]],
+  ['tabchanged_1',['TabChanged',['../d7/df1/classEditLabelTemplateDialog.html#a467532552dbe9b8a35d430f340f6e0ed',1,'EditLabelTemplateDialog']]],
   ['tagdetailtov0_5f4_5f0_2',['TagDetailToV0_4_0',['../dc/dd3/classVPatternConverter.html#a9c0607e6002e5822eaf4c2647a60a0fe',1,'VPatternConverter']]],
   ['tagincrementsv0_5f1_5f4_3',['TagIncrementsV0_1_4',['../dc/dd3/classVPatternConverter.html#affc3700db421befca14513ff95f17851',1,'VPatternConverter']]],
   ['tagincrementtov0_5f2_5f0_4',['TagIncrementToV0_2_0',['../dc/dd3/classVPatternConverter.html#af9a8936cefca59fe790f362290602cf0',1,'VPatternConverter']]],
@@ -183,8 +183,8 @@ var searchData=
   ['togglepiecehover_180',['togglePieceHover',['../d7/df5/classVMainGraphicsScene.html#aadda5b98d74f0f0305a658a54360eec2',1,'VMainGraphicsScene']]],
   ['togglepieceinlayout_181',['TogglePieceInLayout',['../dd/d47/classTogglePieceInLayout.html#a0bfad8c8d0daa8a966c0561fcc20cdf8',1,'TogglePieceInLayout']]],
   ['togglepiecelabel_182',['togglePieceLabel',['../da/dfb/classPatternPieceTool.html#a812fb3db49b1d43fdb077ba94531486f',1,'PatternPieceTool']]],
-  ['togglepiecelock_183',['togglePieceLock',['../da/dfb/classPatternPieceTool.html#a4489e798ced003213fb95b598a2c5e66',1,'PatternPieceTool']]],
-  ['togglepiecelock_184',['TogglePieceLock',['../d9/d39/classTogglePieceLock.html#a1734952269214bf11adc93d6782c009a',1,'TogglePieceLock']]],
+  ['togglepiecelock_183',['TogglePieceLock',['../d9/d39/classTogglePieceLock.html#a1734952269214bf11adc93d6782c009a',1,'TogglePieceLock']]],
+  ['togglepiecelock_184',['togglePieceLock',['../da/dfb/classPatternPieceTool.html#a4489e798ced003213fb95b598a2c5e66',1,'PatternPieceTool']]],
   ['togglepieceselection_185',['togglePieceSelection',['../d7/df5/classVMainGraphicsScene.html#a7b33a7927ad04c4ffa3de536749b6841',1,'VMainGraphicsScene']]],
   ['togglepointhover_186',['TogglePointHover',['../d7/df5/classVMainGraphicsScene.html#a58c07859570ec6ae34ee7c64e4ce8927',1,'VMainGraphicsScene']]],
   ['togglepointselection_187',['TogglePointSelection',['../d7/df5/classVMainGraphicsScene.html#aee237575bca45db5be0cf65b990d33a1',1,'VMainGraphicsScene']]],
