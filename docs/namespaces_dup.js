@@ -27,6 +27,14 @@ var namespaces_dup =
       [ "childElements", "dd/da8/namespaceanonymous__namespace_02savetooloptions_8cpp_03.html#a90bc00f8429f2767711cee83fd7c5b09", null ],
       [ "referencesChanged", "dd/da8/namespaceanonymous__namespace_02savetooloptions_8cpp_03.html#a37fef8eec386cdf9b1548406ee1b6175", null ]
     ] ],
+    [ "anonymous_namespace{tst_vtoolmove.cpp}", "d7/d5d/namespaceanonymous__namespace_02tst__vtoolmove_8cpp_03.html", [
+      [ "moveAngle", "d7/d5d/namespaceanonymous__namespace_02tst__vtoolmove_8cpp_03.html#a2513e9612873952810698e97da058004", null ],
+      [ "moveLength", "d7/d5d/namespaceanonymous__namespace_02tst__vtoolmove_8cpp_03.html#a3b179851d0f03fa190ba08ac0d583839", null ],
+      [ "originPointId", "d7/d5d/namespaceanonymous__namespace_02tst__vtoolmove_8cpp_03.html#aa949404902611af605071ffc44a760f4", null ],
+      [ "rotationAngle", "d7/d5d/namespaceanonymous__namespace_02tst__vtoolmove_8cpp_03.html#ac293cabdc24545596e9d49b0538c339a", null ],
+      [ "rotationPointA5", "d7/d5d/namespaceanonymous__namespace_02tst__vtoolmove_8cpp_03.html#afd7e12d3934b5c39f8eb0c354d4dace0", null ],
+      [ "sourcePointId", "d7/d5d/namespaceanonymous__namespace_02tst__vtoolmove_8cpp_03.html#a861b3803737161838eefae3a765279ab", null ]
+    ] ],
     [ "anonymous_namespace{vabstractpattern.cpp}", "d0/d42/namespaceanonymous__namespace_02vabstractpattern_8cpp_03.html", [
       [ "ReadExpressionAttribute", "d0/d42/namespaceanonymous__namespace_02vabstractpattern_8cpp_03.html#a03b1fb578fba1ecb51300ab233820199", null ]
     ] ],
@@ -108,6 +116,7 @@ var namespaces_dup =
       [ "settingGeneralToolbarsState", "d5/dc3/namespaceanonymous__namespace_02vcommonsettings_8cpp_03.html#af3454acdd594dd98d4348de6cc8643a7", null ],
       [ "settingGeneralWindowState", "d5/dc3/namespaceanonymous__namespace_02vcommonsettings_8cpp_03.html#a0696d67afde5d1eb5346a7a90c11beae", null ],
       [ "settingGraphicsAutoClearFx", "d5/dc3/namespaceanonymous__namespace_02vcommonsettings_8cpp_03.html#ab6d7c0132ed611b7a2c649e0e7d65771", null ],
+      [ "settingGraphicsUseNativeDialogs", "d5/dc3/namespaceanonymous__namespace_02vcommonsettings_8cpp_03.html#ae909559fcf29f9941cfe10bffcec8932", null ],
       [ "settingGraphicsUseSecondMonitor", "d5/dc3/namespaceanonymous__namespace_02vcommonsettings_8cpp_03.html#a2474fcf7a475730787f7dcc8c7789a6f", null ],
       [ "settingGraphicsUseToolColor", "d5/dc3/namespaceanonymous__namespace_02vcommonsettings_8cpp_03.html#a634ebb3df267982daf0e69606dbcda37", null ],
       [ "settingGraphicsViewAngleDelta", "d5/dc3/namespaceanonymous__namespace_02vcommonsettings_8cpp_03.html#a4737f155235118b924d74d65812b04b6", null ],
@@ -271,9 +280,6 @@ var namespaces_dup =
       [ "PrepareLines", "db/dc8/namespaceanonymous__namespace_02vtextmanager_8cpp_03.html#a7788df6540976bcf089f73bb45e6859b", null ],
       [ "PreparePlaceholders", "db/dc8/namespaceanonymous__namespace_02vtextmanager_8cpp_03.html#a88d38d5a844b780e9d471ef2e836a2f6", null ],
       [ "ReplacePlaceholders", "db/dc8/namespaceanonymous__namespace_02vtextmanager_8cpp_03.html#a91aaaf6b1495aa6560f1cb8e37421b01", null ]
-    ] ],
-    [ "anonymous_namespace{vtoolmove.cpp}", "dd/dbe/namespaceanonymous__namespace_02vtoolmove_8cpp_03.html", [
-      [ "findRotationOrigin", "dd/dbe/namespaceanonymous__namespace_02vtoolmove_8cpp_03.html#a2f7cb2fa85efab3c7cc6db3569f5bd15", null ]
     ] ],
     [ "qmu", "da/d92/namespaceqmu.html", "da/d92/namespaceqmu" ],
     [ "QT_WARNING_POP", "dd/db0/namespaceQT__WARNING__POP.html", [
